@@ -46,3 +46,4 @@ make static
     },
   ]
 }```
+NOTE: when using vscode to run tests the config above sets the environment variable only for debug runs, but not test runs. The only way i found to do that in the test runs is to use pytest-env
