@@ -1,0 +1,23 @@
+# IJ and vscode
+.vscode
+.idea
+
+# CMake
+cmake-build-*/
+
+# File-based project format
+*.iws
+
+# IntelliJ
+out/
+
+# python
+*.swp
+package-lock.json
+__pycache__
+.pytest_cache
+.venv
+*.egg-info
+
+# create your own secure env vars from env.exmaple
+.env
