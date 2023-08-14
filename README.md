@@ -41,7 +41,7 @@ make static
       ],
       "console": "integratedTerminal",
       "justMyCode": true,"env": {
-        "AWS_PROFILE": "imprivata-sandbox"
+        "AWS_PROFILE": "my-sandbox"
       }
     },
   ]
